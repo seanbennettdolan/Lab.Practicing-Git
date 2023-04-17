@@ -1,2 +1,2 @@
-Here is some text.
-Here is some text.
+NEW TEXT COOL
+# Lab.Practicing-Git
